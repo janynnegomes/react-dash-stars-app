@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dash-stars-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-dash-stars-app/static/js/main.3f8442d5.chunk.js",
+    "main.js.map": "/react-dash-stars-app/static/js/main.3f8442d5.chunk.js.map",
+    "runtime-main.js": "/react-dash-stars-app/static/js/runtime-main.b6ba8f85.js",
+    "runtime-main.js.map": "/react-dash-stars-app/static/js/runtime-main.b6ba8f85.js.map",
+    "static/js/2.bb183502.chunk.js": "/react-dash-stars-app/static/js/2.bb183502.chunk.js",
+    "static/js/2.bb183502.chunk.js.map": "/react-dash-stars-app/static/js/2.bb183502.chunk.js.map",
+    "index.html": "/react-dash-stars-app/index.html",
+    "precache-manifest.c93dc1c8476a1aea047fc743fc04fded.js": "/react-dash-stars-app/precache-manifest.c93dc1c8476a1aea047fc743fc04fded.js",
+    "service-worker.js": "/react-dash-stars-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-dash-stars-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/react-dash-stars-app/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ba8f85.js",
+    "static/js/2.bb183502.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.3f8442d5.chunk.js"
+  ]
+}
