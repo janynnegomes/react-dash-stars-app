@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
-import Star from './components/Star';
-import { Button, Container, Col, Row, Jumbotron, Navbar, Nav } from 'react-bootstrap';
+
+import Users from './components/Users';
+import { Container, Col, Row, Jumbotron, Navbar, Nav } from 'react-bootstrap';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -25,18 +26,9 @@ function App() {
           <Jumbotron>
             <h1 className="text-center">React Dash Stars App</h1>
           </Jumbotron>
-          <Row>
+          <Row>            
             <Col>
-              <Star color="red"/>
-            </Col>
-            <Col>
-              <Star color="yellow"/>
-            </Col>
-            <Col>
-              <Star color="blue"/>
-            </Col>
-            <Col>
-              <Star color="gray"/>
+              <Users/>
             </Col>
           </Row>     
         </Container>
