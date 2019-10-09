@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3e4dee9413e5183ce75893f8a015f45",
+    "revision": "6fd61ce0bb234d2704302907a22015ac",
     "url": "/react-dash-stars-app/index.html"
   },
   {
-    "revision": "7046b82e07c10a2376ee",
+    "revision": "42558023726448c14953",
     "url": "/react-dash-stars-app/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "a5524ada96440588d101",
+    "revision": "d26d6bae0d52bde81c1a",
     "url": "/react-dash-stars-app/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "7046b82e07c10a2376ee",
-    "url": "/react-dash-stars-app/static/js/2.59b80646.chunk.js"
+    "revision": "42558023726448c14953",
+    "url": "/react-dash-stars-app/static/js/2.c6fcfb89.chunk.js"
   },
   {
-    "revision": "a5524ada96440588d101",
-    "url": "/react-dash-stars-app/static/js/main.b485f738.chunk.js"
+    "revision": "d26d6bae0d52bde81c1a",
+    "url": "/react-dash-stars-app/static/js/main.439f04b3.chunk.js"
   },
   {
     "revision": "98039c4a1de9b34b8b8c",

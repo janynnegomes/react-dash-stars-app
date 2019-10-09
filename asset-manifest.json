@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-dash-stars-app/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react-dash-stars-app/static/js/main.b485f738.chunk.js",
-    "main.js.map": "/react-dash-stars-app/static/js/main.b485f738.chunk.js.map",
+    "main.js": "/react-dash-stars-app/static/js/main.439f04b3.chunk.js",
+    "main.js.map": "/react-dash-stars-app/static/js/main.439f04b3.chunk.js.map",
     "runtime-main.js": "/react-dash-stars-app/static/js/runtime-main.b6ba8f85.js",
     "runtime-main.js.map": "/react-dash-stars-app/static/js/runtime-main.b6ba8f85.js.map",
     "static/css/2.0624914a.chunk.css": "/react-dash-stars-app/static/css/2.0624914a.chunk.css",
-    "static/js/2.59b80646.chunk.js": "/react-dash-stars-app/static/js/2.59b80646.chunk.js",
-    "static/js/2.59b80646.chunk.js.map": "/react-dash-stars-app/static/js/2.59b80646.chunk.js.map",
+    "static/js/2.c6fcfb89.chunk.js": "/react-dash-stars-app/static/js/2.c6fcfb89.chunk.js",
+    "static/js/2.c6fcfb89.chunk.js.map": "/react-dash-stars-app/static/js/2.c6fcfb89.chunk.js.map",
     "index.html": "/react-dash-stars-app/index.html",
-    "precache-manifest.4c861ab51c7a278d05f1263077cba7bb.js": "/react-dash-stars-app/precache-manifest.4c861ab51c7a278d05f1263077cba7bb.js",
+    "precache-manifest.1fa78a2d9a2b71cabce84d7bc883b7f5.js": "/react-dash-stars-app/precache-manifest.1fa78a2d9a2b71cabce84d7bc883b7f5.js",
     "service-worker.js": "/react-dash-stars-app/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/react-dash-stars-app/static/css/2.0624914a.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/react-dash-stars-app/static/css/main.b100e6da.chunk.css.map"
@@ -17,8 +17,8 @@
   "entrypoints": [
     "static/js/runtime-main.b6ba8f85.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.59b80646.chunk.js",
+    "static/js/2.c6fcfb89.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.b485f738.chunk.js"
+    "static/js/main.439f04b3.chunk.js"
   ]
 }
